@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A first-generation student, and proud to be. Currently, pursuing my DPhil. in the CS dept. at the University of Oxford, UK. I am a dreamer and hard-working individual. Education is my cause. I strive to make a difference in my society through research and education. 
+A first-generation student, and proud to be. Currently, pursuing my DPhil. in the CS dept. at the University of Oxford, UK. I am a dreamer and a hard-working individual. Education is my cause. I strive to make a difference in my society through research and education. 
 
 I work as a Lecturer in the College of Computing & IT (CCIT) at <a href="http://www.kau.edu.sa/home_ENGLISH.aspx"> King Abdulaziz University (KAU) </a>. Prior to that, I worked in various network and technical support positions in IT departments at different academic institutions: <a href="http://www.dah.edu.sa">Dar Al-Hekma University</a>, <a href="http://www.effatuniversity.edu.sa">Effat University</a>, and <a href="http://www.fikr.edu.sa/">Dar Al-Fikr Schools</a>.
 
