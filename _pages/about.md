@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my DPhil. (Phd.) in Computer Science at the <a href="http://www.cs.ox.ac.uk">University of Oxford</a>, UK. My research interests lies in Internet security and security protocols. 
+I am currently pursuing my DPhil. (Phd.) in Computer Science at the <a href="http://www.cs.ox.ac.uk">University of Oxford</a>, UK. My research interests lies in Internet security. 
 
 I hold a MSc. degree in Information Security from <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_information_security/">University College London (UCL)</a>. My master thesis examined the security of RSA public-keys, in particular, it examined the factorable RSA keys issue in TLS servers on the Internet. Previously, I obtained BSc. in Computer Science from King Abdulaziz University <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">KAU</a>.
 
