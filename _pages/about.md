@@ -16,11 +16,11 @@ When I have time I enjoy learning new things, especially those related to comput
 Some of the interesting career experiences I had are: 
 <ul>
 <li> The recipient of the <strong>BEST PAPER AWARD</strong> at SecureComm 2019 for our <a href="/publications/towards_fs.pdf">paper here</a>.</li> 
- <li> Research internship at <a href="https://www.sutd.edu.sg">SUTD</a>, Singapore in 2018.</li> 
- <li> Invited by Google (Munich office) for the Web Security Summit 2018.</li> 
- <li> The recipient of IEEE R8 Clementina Saduwa Award for Women in Engineering 2015. </li>
-  <li> The recipient of the IEEE R8 Exemplary Student Branch Counselor 2015. </li>
-<li> The founding lecturer of the Network Lab at the College of Computing & IT (CCIT) in KAU 2007. </li>
+<li> Research internship at <a href="https://www.sutd.edu.sg">SUTD</a>, Singapore in 2018.</li> 
+<li> Invited by Google (Munich office) for the Web Security Summit 2018.</li> 
+<li> The recipient of IEEE R8 Clementina Saduwa Award for Women in Engineering 2015. </li>
 <li> The founding lecturer of the first Student Hacking Competition at CCIT-KAU in 2015. </li> 
 <li> The first Head of the Labs & Technical Support Unit at CCIT-KAU (2008 - 2011). </li>
+<li> The founding lecturer of the Network Lab at the College of Computing & IT (CCIT) in KAU 2007. </li>
+<li> The recipient of the IEEE R8 Exemplary Student Branch Counselor 2015. </li>
 </ul>
