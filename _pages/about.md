@@ -11,7 +11,9 @@ I am currently pursuing my DPhil. (Phd.) in Computer Science at the <a href="htt
 
 I hold a MSc. degree in Information Security from <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_information_security/">University College London (UCL)</a>. My master thesis examined the security of RSA public-keys, in particular, it examined the factorable RSA keys issue in TLS servers on the Internet. Previously, I obtained BSc. in Computer Science from King Abdulaziz University <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">KAU</a>.
 
-When I have time I enjoy learning new things, especially those related to computer science. I also enjoy reading and art work. Some of my very old art work can be found <a href="https://www.behance.net/ealashwali/">here </a>. 
+When I have time I enjoy learning new things, especially those related to computer science. I also enjoy reading and art work. Some of my very old art work can be found <a href="https://www.behance.net/ealashwali/">here </a>.
+
+I also had the pleasure to see many parts of this world. I visited the US, Singapore, Malysia, Germany, France, Italy, Croatia, Slovenia, Estonia, Poland, and Egypt. I spent in the UK for a total of around 7 years now. 
 
 Some of the interesting career experiences I had are: 
 <ul>
