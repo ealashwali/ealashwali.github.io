@@ -13,7 +13,7 @@ I hold a MSc. degree in Information Security from <a href="http://www.cs.ucl.ac.
 
 When I have time I enjoy learning new things, especially those related to computer science. I also enjoy reading and art work. Some of my very old art work can be found <a href="https://www.behance.net/ealashwali/">here </a>.
 
-I also had the pleasure to see many parts of this world. I visited the US, Singapore, Malaysia, Germany, France, Italy, Croatia, Slovenia, Estonia, Poland, and Egypt. I also lived in the UK for a total of around 7 years now. 
+I had the pleasure to see and live in different parts of this world. I visited the US, Singapore (lived for 5 months), Malaysia, Germany, France, Italy, Croatia, Slovenia, Estonia, Poland, and Egypt. I also lived in the UK for a total of around 7 years now. 
 
 Some of the interesting career experiences I had are: 
 <ul>
