@@ -22,7 +22,7 @@ Conferences
 
 Journal
 ======
-* E. Alashwali, "Incorporating Hacking Projects in Computer and Information Security Education: an Empirical Study," Int. J. Electronic Security and Digital Forensics, Vol. 6, No. 3, pp.185-203. 2014. <a href="IJESDF_infosec_education.pdf">PDF (pre-print) </a>
+* E. Alashwali, "Incorporating Hacking Projects in Computer and Information Security Education: an Empirical Study," Int. J. Electronic Security and Digital Forensics, 2014, Vol. 6, No. 3, pp.185-203. <a href="IJESDF_infosec_education.pdf">PDF (pre-print) </a>
 
 Miscellaneous
 ======
