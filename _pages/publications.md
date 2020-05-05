@@ -26,7 +26,6 @@ Journal
 
 Miscellaneous
 ======
-* E. Alashwali, "تضمين تمارين الاختراق التنافسية في تدريس معمل مادة أمن المعلومات: تجربة ناجحة في كلية الحاسبات بجامعة الملك عبدالعزيز" , 2020. <a href="ethical.pdf">PDF</a>
 * E. Alashwali, "Cryptographic Vulnerabilities in Real-Life Web Servers," <i> in the 3rd International Conf. on Communications and Information Technology (ICCIT 2013)</i>, Beirut, Lebanon, 2013. <a href="ccit_poster_2012.pdf">PDF</a>
 * E. Alashwali (author and designer), "Labs & Technical Support Catalogue", published by the Scientific Publishing Centre at KAU, 2011. <a href="catalogue_2010_A5size_ver5.pdf">PDF</a>
 * E. Alashwali, "Software Security Assessment smbftpd-0.96" coursework submitted to University College London (UCL) in Language Based Security Course, 2012. <a href="security_assesment.pdf">PDF</a>
