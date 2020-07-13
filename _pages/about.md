@@ -25,6 +25,6 @@ Some of the interesting career experiences I had are:
 <li> The recipient of the IEEE R8 Exemplary Student Branch Counselor 2015. </li>
 <li> The founding lecturer of the first Student Hacking Competition at CCIT-KAU in 2015. </li> 
 <li> The recipient of a <a href="_pages/dr_ibrahim_letter.pdf">Letter of Thanks</a> from the Dean of CCIT-KAU, Prof. Ibrahim Albidewi in 2010. </li>
-<li> The first Head of the Labs & Technical Support Unit at CCIT-KAU (2008 - 2011). </li>
+<li> The first Head of the <a href="_pages/catalogue_2010_A5size_ver4.pdf">Labs & Technical Support Unit</a> at CCIT-KAU (2008 - 2011). </li>
 <li> The founding lecturer of the Network Lab at the College of Computing & IT (CCIT) in KAU 2007. </li>
 </ul>
