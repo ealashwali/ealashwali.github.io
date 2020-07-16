@@ -13,7 +13,7 @@ I hold a MSc. degree in Information Security from <a href="http://www.cs.ucl.ac.
 
 When I have time I enjoy learning new things, especially those related to computer science. I also enjoy reading and art work. Some of my very old art work can be found <a href="https://www.behance.net/ealashwali/">here </a>.
 
-I am from Saudi Arabia. I had the pleasure to visit and live in different parts of this world. I visited the US, Singapore (lived for 5 months), Malaysia, Germany, France, Italy, Croatia, Slovenia, Estonia, Poland, and Egypt. I also lived in the UK for over 6 years. 
+I am from Saudi Arabia. As part of my work as an academic, I had the pleasure to visit and live in different parts of this world. I visited the US, Singapore (lived for 5 months), Malaysia, Germany, France, Italy, Croatia, Slovenia, Estonia, Poland, and Egypt. I also lived in the UK for over 6 years. 
 
 Some of the interesting career experiences I had are: 
 <ul>
