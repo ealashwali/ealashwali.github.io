@@ -11,7 +11,7 @@ redirect_from:
 
 Conferences
 ======
-* E. Alashwali, P. Szalachowski, and A. Martin "Exploring HTTPS Security Inconsistencies: A Cross-Regional Perspective," <i> in International Association for Cryptologic Research (IACR)</i>, 2020. <a href="/publications/https_inconsistencies.pdf">PDF (pre-print)</a>
+* E. Alashwali, P. Szalachowski, and A. Martin "Exploring HTTPS Security Inconsistencies: A Cross-Regional Perspective," Computers & Security, 2020, Vol. 97, No 101975. <a href="/publications/https_inconsistencies_arxiv.pdf">PDF (pre-print)</a>
 * E. Alashwali, P. Szalachowski, and A. Martin "Towards Forward Secure Internet Traffic," <i> in proc. of the 15th International Conference on Security and Privacy in Communication Networks (SecureComm 2019)</i>, US, 2019. <a href="/publications/towards_fs.pdf">PDF (pre-print)</a> <font color="red">**BEST PAPER AWARD**</font>
 * E. Alashwali, P. Szalachowski, and A. Martin "Does "www." Mean Better Transport Layer Security?," <i> in proc. of the 14th International Conference on Availability, Reliability and Security (ARES 2019)</i>, UK, 2019. <a href="/publications/1906.06505.pdf">PDF (pre-print)</a>
 * E. Alashwali and P. Szalachowski "DSTC: DNS-based Strict TLS Configurations," <i> in proc. of the 13th Int. Conference on Risks and Security of Internet and Systems (CRISIS)</i>, France, 2018. <a href="alashwali_and_szalachowski_dstc_camera_ready.pdf">PDF (pre-print)</a>
@@ -22,7 +22,7 @@ Conferences
 
 Journal
 ======
-* E. Alashwali, "Incorporating Hacking Projects in Computer and Information Security Education: an Empirical Study," Int. J. Electronic Security and Digital Forensics, 2014, Vol. 6, No. 3, pp.185-203. <a href="IJESDF_infosec_education.pdf">PDF (pre-print) </a>
+* E. Alashwali, "Incorporating Hacking Projects in Computer and Information Security Education: an Empirical Study," Int. J. Electronic Security and Digital Forensics, 2014, Vol. 6, No. 3, pp. 185-203. <a href="IJESDF_infosec_education.pdf">PDF (pre-print) </a>
 
 Miscellaneous
 ======
