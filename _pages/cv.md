@@ -11,10 +11,11 @@ redirect_from:
 
 Profile
 ======
-A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as a lecturer  in King Abdulaziz University (KAU), Saudi Arabia with a Master of Science (MSc.) in Information Security from University College London (UCL) and Bachelor of Science (BSc.) in Computer Science from KAU. I am passionate about  doing further research in information security area. 
+A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as an Assistant Professor in King Abdulaziz University (KAU), Saudi Arabia with a DPhil. in Cyber Security from the University of Oxford, UK. I am passionate about education and research in the cyber security area. 
 
 Education
 ======
+* DPhil. (Phd.) in Cyber Security, University of Oxford, 2020.
 * MSc. in Information Security, University College London (UCL), 2012.
 * Diploma in English for Academic Purposes, University College London (UCL), 2011.
 * BSc. in Computer Science, King Abdulaziz University (KAU), 2004.
