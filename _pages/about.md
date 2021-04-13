@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="color:red";>**NEWS: I am always looking for motivated students passionate about Cybersecurity research. If you are looking for a supervisor please contact me: ealashwali[at]kau[dot]edu[dot]sa</p>
+<p style="color:red;">**NEWS: I am always looking for motivated students passionate about Cybersecurity research.</p> If you are looking for a supervisor please contact me: ealashwali[at]kau[dot]edu[dot]sa
 
 I work as an Assistant Professor at the College of Computing & IT at King Abdulaziz University <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">(KAU)</a>. I completed a DPhil. (Phd.) in Computer Science from the <a href="http://www.cs.ox.ac.uk">University of Oxford</a>, UK in 2020. My research interests are: security protocols, Internet security, applied cryptography, and the human aspect of security. I also hold a MSc. degree in Information Security from <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_information_security/">University College London (UCL)</a>. Previously, I obtained BSc. in Computer Science from <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">KAU</a>.
 
