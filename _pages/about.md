@@ -15,14 +15,14 @@ I am from Saudi Arabia. I had the pleasure to visit and live in different parts 
 
 Some of the interesting career experiences I had are: 
 <ul>
-<li> The recipient of the <a href="_pages/best_paper_cert.pdf">BEST PAPER AWARD</a> at SecureComm 2019. <a href="/publications/towards_fs.pdf">PDF</a>.</li> 
+<li> The recipient of the BEST PAPER AWARD at SecureComm 2019. <a href="/publications/towards_fs.pdf">PDF</a>.</li> 
 <li> Research internship at <a href="https://www.sutd.edu.sg">SUTD</a>, Singapore in 2018.</li> 
 <li> Invited by Google (Munich office) within top selected Phd. and Post-doctoral researchers from around Europe for the Google Web Security Summit 2018.</li> 
-<li> The recipient of IEEE R8 <a href="_pages/ieee_award.jpg"> Clementina Saduwa Award </a> for Women in Engineering 2015. </li>
+<li> The recipient of IEEE R8 Clementina Saduwa Award for Women in Engineering 2015. </li>
 <li> The recipient of the IEEE R8 Exemplary Student Branch Counselor 2015. </li>  
-<li> The recipient of a <a href="_pages/dr_youbi_letter.pdf">Letter of Thanks</a> from the President of KAU, Prof. Abdulrahman Alyoubi in 2015. </li>
+<li> The recipient of a Letter of Thanks from the President of KAU, Prof. Abdulrahman Alyoubi in 2015. </li>
 <li> The founding lecturer of the first Student Hacking Competition at CCIT-KAU in 2015. </li> 
-<li> The recipient of a <a href="_pages/dr_ibrahim_letter.pdf">Letter of Thanks</a> from the Dean of CCIT-KAU, Prof. Ibrahim Albidewi in 2010. </li>
+<li> The recipient of a Letter of Thanks from the Dean of CCIT-KAU, Prof. Ibrahim Albidewi in 2010. </li>
 <li> The first Head of the <a href="_pages/catalogue_2010_A5size_ver4.pdf">Labs & Technical Support Unit</a> at CCIT-KAU (2008 - 2011). </li>
 <li> The founding lecturer of the Network Lab at the College of Computing & IT (CCIT) in KAU 2007. </li>
 </ul>
