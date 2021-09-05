@@ -29,13 +29,17 @@ IT Career Certificates
 
 Work experience
 ======
+* Dec. 2020 - Present: Assistant Professor
+  * College of Computing & IT at King Abdulaziz University (KAU).
+  * Duties included: Teaching Professonal Computing Issues, Computer Skills, Programming & Problem Solving, and academic advising.
+  
 * Aug. 2013 - Present: Lecturer
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Teaching Information Security Lab, Computer Skills, Computer Networks Lab, Academic Advising.
+  * Duties included: Teaching Information Security Lab, Computer Skills, Computer Networks Lab, and Academic Advising.
 
 * Mar. 2007 – Aug. 2013: Teaching Assistant
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Teaching Introduction to Programming with C++, Computer Skills, Computer Networks Lab, Academic Advising.
+  * Duties included: Teaching Introduction to Programming with C++, Computer Skills, Computer Networks Lab, and academic advising.
 
 * Mar. 2008 – Jan. 2011: Head of the Labs & Technical Support Unit.
   * College of Computing & IT at King Abdulaziz University (KAU).
