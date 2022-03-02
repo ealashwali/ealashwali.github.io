@@ -11,7 +11,7 @@ redirect_from:
 
 Profile
 ======
-A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as an Assistant Professor in King Abdulaziz University (KAU), Saudi Arabia with a DPhil. in Cyber Security from the University of Oxford, UK. I am passionate about education and research in the cyber security area. 
+A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as an Assistant Professor in King Abdulaziz University (KAU), Saudi Arabia with a DPhil. in Cyber Security from the University of Oxford, UK. I am passionate about education and research in the cyber security area. <a href="/files/cv_en.pdf">PDF</a>.</li>PDF Resume.
 
 Education
 ======
