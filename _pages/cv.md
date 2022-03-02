@@ -29,6 +29,10 @@ IT Career Certificates
 
 Work experience
 ======
+* Sep. 2021 - Present: Deputy Supervisor for the Cyber Security Club
+  * College of Computing & IT at King Abdulaziz University (KAU).
+  * Duties include: Building a cyber security hub for staff and students to raise awareness, conduct activities, and network.
+  
 * Dec. 2020 - Present: Assistant Professor
   * College of Computing & IT at King Abdulaziz University (KAU).
   * Duties included: Teaching Professonal Computing Issues, Computer Skills, Programming & Problem Solving, and academic advising.
@@ -64,5 +68,6 @@ Service and leadership
 * Founder of the 1<sup>st</sup> Student Hacking Competition in FCIT-KAU in 2015.
 * Volunteer, Student Activites Chair in the IEEE Western Saudi Section and member of the Executive committee (2014-2015).
 * Counselor, IEEE KAU Student Branch (2014-2015).
+* Reviewer, Behaviour and Information Technology, Taylor and Francis, 2021
 * Reviewer, the IEEE Global Engineering Education Conference (EDUCON 2015), Tallin, Estonia, 2015.
 * Reviewer in the 11<sup>th</sup> Learning & Technology Conference (L&T 2014), Jeddah, Saudi Arabia, 2014.
