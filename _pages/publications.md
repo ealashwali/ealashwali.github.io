@@ -11,6 +11,7 @@ redirect_from:
 
 Conferences
 ======
+* E. Alashwali and F. Alashwali "Saudi parents' privacy Concerns about Their children’s smart device applications," Child-Computer Interaction, 2022, Vol. 33, No. 100486. <a href="/publications/saudi_parent_privacy_concerns_arxiv_v3">PDF (pre-print)</a>
 * E. Alashwali, P. Szalachowski, and A. Martin "Exploring HTTPS Security Inconsistencies: A Cross-Regional Perspective," Computers & Security, 2020, Vol. 97, No. 101975. <a href="/publications/https_inconsistencies_arxiv.pdf">PDF (pre-print)</a>
 * E. Alashwali, P. Szalachowski, and A. Martin "Towards Forward Secure Internet Traffic," <i> in proc. of the 15th International Conference on Security and Privacy in Communication Networks (SecureComm 2019)</i>, US, 2019. <a href="/publications/towards_fs.pdf">PDF (pre-print)</a> <font color="red">**BEST PAPER AWARD**</font>
 * E. Alashwali, P. Szalachowski, and A. Martin "Does "www." Mean Better Transport Layer Security?," <i> in proc. of the 14th International Conference on Availability, Reliability and Security (ARES 2019)</i>, UK, 2019. <a href="/publications/1906.06505.pdf">PDF (pre-print)</a>
