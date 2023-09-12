@@ -11,7 +11,7 @@ redirect_from:
 
 Profile
 ======
-A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as an Assistant Professor in King Abdulaziz University (KAU), Saudi Arabia with a DPhil. in Cyber Security from the University of Oxford, UK. I am passionate about education and research in the cyber security area. <a href="/files/cv_en.pdf">PDF Resume</a>.
+A hardworking and ambitious person, striving  to make a difference in my society through research and education. I work as an Assistant Professor in King Abdulaziz University (KAU), Saudi Arabia with a DPhil. in Cyber Security from the University of Oxford, UK. I am passionate about education and research in the cyber security area.
 
 Education
 ======
@@ -28,16 +28,20 @@ IT Career Certificates
 * Network+ Certified Professional from CompTIA, 2004.
 
 Work experience
-======
-* Sep. 2021 - Present: Deputy Supervisor for the Cyber Security Club
-  * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties include: Building a cyber security hub for staff and students to raise awareness, conduct activities, and network.
-  
+======  
+* Oct. 2022 - Present: Collaboration Visitor
+  * Security and Privacy Institute (CyLab) at Carnegie Mellon University (CMU).
+  * Duties: conducting research in usable privacy and security.
+    
 * Dec. 2020 - Present: Assistant Professor
   * College of Computing & IT at King Abdulaziz University (KAU).
   * Duties included: Teaching Professonal Computing Issues, Computer Skills, Programming & Problem Solving, and academic advising.
+ 
+* Sep. 2021 - Sep. 2022: Deputy Supervisor for the Cyber Security Club
+  * College of Computing & IT at King Abdulaziz University (KAU).
+  * Duties include: Building a cyber security hub for staff and students to raise awareness, conduct activities, and network.
   
-* Aug. 2013 - Present: Lecturer
+* Aug. 2013 - Dec. 2020: Lecturer
   * College of Computing & IT at King Abdulaziz University (KAU).
   * Duties included: Teaching Information Security Lab, Computer Skills, Computer Networks Lab, and Academic Advising.
 
