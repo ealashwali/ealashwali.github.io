@@ -9,7 +9,7 @@ redirect_from:
 ---
 I work as an Assistant Professor at the College of Computing & IT at King Abdulaziz University <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">(KAU)</a>. I completed a DPhil. (Phd.) in Computer Science from the <a href="http://www.cs.ox.ac.uk">University of Oxford</a>, UK in 2020. My research are is about web security, combining both usable privacy and security and Internet measurement studies. I also hold a MSc. degree in Information Security from <a href="http://www.cs.ucl.ac.uk/prospective_students/msc_information_security/">University College London (UCL)</a>. Previously, I obtained BSc. in Computer Science from <a href="http://www.kau.edu.sa/home_ENGLISH.aspx">KAU</a>.
 
-When I have time I enjoy learning new things, especially those related to computer science. I also enjoy reading and art work. Some of my very old art work can be found <a href="https://www.behance.net/ealashwali/">here </a>.
+When I have time I write and talk at my <a href="https://podcasts.apple.com/sa/podcast/bit/id1637283049?l=ar">bit podcast</a> (Arabic podcast about cybersecurity for everyone). I also enjoy learning new things, especially those related to computer science. I also enjoy reading and art work. Some of my very old art work can be found <a href="https://www.behance.net/ealashwali/">here</a>.
 
 Some of the interesting career experiences I had are: 
 <ul>
