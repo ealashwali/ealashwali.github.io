@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+click here for a <a href="/files/eman_cv_23.pdf" style="color: blue">PDF (pre-print)</a> version of my CV.
 
 Profile
 ======
