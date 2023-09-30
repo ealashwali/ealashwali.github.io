@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-click here for a <a href="/files/eman_cv_23.pdf" style="color: blue">PDF</a> version of my CV.
+click here for a <a href="/files/eman_cv_web_23.pdf" style="color: blue">PDF</a> version of my CV.
 
 Profile
 ======
