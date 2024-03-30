@@ -35,15 +35,15 @@ Work experience
     
 * Dec. 2020 - Present: Assistant Professor
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Teaching Professonal Computing Issues, Computer Skills, Programming & Problem Solving, and academic advising.
+  * Duties included: teaching Professonal Computing Issues, Computer Skills, Programming & Problem Solving.
  
 * Sep. 2021 - Sep. 2022: Deputy Supervisor for the Cyber Security Club
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Building a cyber security hub for staff and students to raise awareness, conduct activities, and network.
+  * Duties included: building a cyber security hub for staff and students to raise awareness, conduct activities.
   
 * Aug. 2013 - Dec. 2020: Lecturer
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Teaching Information Security Lab, Computer Skills, Computer Networks Lab, and Academic Advising.
+  * Duties included: teaching Information Security Lab, Computer Skills, Computer Networks Lab.
 
 * Mar. 2007 – Aug. 2013: Teaching Assistant
   * College of Computing & IT at King Abdulaziz University (KAU).
@@ -51,19 +51,19 @@ Work experience
 
 * Mar. 2008 – Jan. 2011: Head of the Labs & Technical Support Unit.
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties included: Forming the labs of the newly opened (at that time) College of Computing & IT at KAU, write the department policies and procedures and forms, obtain the ISO accreditation for qualit management, train newly hired technicians, ensure that the computer labs and staff computers are equipped and running for the daily academic purposes. 
+  * Duties included: forming the labs of the then newly opened College of Computing & IT at KAU, department policies and procedures and forms, obtain the ISO accreditation for qualit management, train newly hired technicians, and ensure that the computer labs and staff computers are equipped and running on daily daily basis. 
 
 * Nov. 2006 - Mar. 2007: Junior Network Administrator
   * IT Department, Dar Al-Hekma University. 
-  * Duties included: Network administration, Managing servers, end-user and computer labs technical support.
+  * Duties included: network administration, managing servers, end-user and computer labs technical support.
 
 * Mar. 2006 – Nov. 2006: Graphi Designer
   * IT Department, Effat University. 
-  * Duties included: Responsible about all the university's events and publications designs, design ads and products.
+  * Duties included: responsible about all the university's graphic design venture.
 
 * Oct. 2004 - Mar. 2006: Network and User Support Coordinator  
   * IT Department, Dar Al-Fikr Schools. 
-  * Duties included: Network administration, end-user and computer labs technical support.
+  * Duties included: network administration, and end-user and computer labs technical support.
   
 Service and leadership
 ======
