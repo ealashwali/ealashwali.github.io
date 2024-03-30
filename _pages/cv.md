@@ -31,7 +31,7 @@ Work experience
 ======  
 * Oct. 2022 - Present: Collaboration Visitor
   * Security and Privacy Institute (CyLab) at Carnegie Mellon University (CMU).
-  * Duties: conducting research in usable privacy and security.
+  * Duties included: conducting research in usable privacy and security.
     
 * Dec. 2020 - Present: Assistant Professor
   * College of Computing & IT at King Abdulaziz University (KAU).
@@ -39,7 +39,7 @@ Work experience
  
 * Sep. 2021 - Sep. 2022: Deputy Supervisor for the Cyber Security Club
   * College of Computing & IT at King Abdulaziz University (KAU).
-  * Duties include: Building a cyber security hub for staff and students to raise awareness, conduct activities, and network.
+  * Duties included: Building a cyber security hub for staff and students to raise awareness, conduct activities, and network.
   
 * Aug. 2013 - Dec. 2020: Lecturer
   * College of Computing & IT at King Abdulaziz University (KAU).
@@ -55,15 +55,15 @@ Work experience
 
 * Nov. 2006 - Mar. 2007: Junior Network Administrator
   * IT Department, Dar Al-Hekma University. 
-  * Duties include: Network administration, Managing servers, end-user and computer labs technical support.
+  * Duties included: Network administration, Managing servers, end-user and computer labs technical support.
 
 * Mar. 2006 – Nov. 2006: Graphi Designer
   * IT Department, Effat University. 
-  * Duties include: Responsible about all the university's events and publications designs, design ads and products.
+  * Duties included: Responsible about all the university's events and publications designs, design ads and products.
 
 * Oct. 2004 - Mar. 2006: Network and User Support Coordinator  
   * IT Department, Dar Al-Fikr Schools. 
-  * Duties include: Network administration, end-user and computer labs technical support.
+  * Duties included: Network administration, end-user and computer labs technical support.
   
 Service and leadership
 ======
