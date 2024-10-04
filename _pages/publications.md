@@ -12,7 +12,7 @@ redirect_from:
 Conferences
 ======
 * E. Alashwali, R.M. Chandrashekar, M. Lanyon, and L.F. Cranor "Detection and Impact of Debit/Credit Card Fraud: Victims' Experiences," <i> European Symposium on
-Usable Security (EuroUSEC) </i> Sweden, 2024. <a href="https://arxiv.org/pdf/2308.10148" style="color: blue">PDF (pre-print)</a>
+Usable Security (EuroUSEC) </i> Sweden, 2024. <a href="https://arxiv.org/pdf/2408.08131" style="color: blue">PDF (pre-print)</a>
 * E. Alashwali, J. Peca, M. Lanyon, and L.F. Cranor "Work-From-Home and Privacy: What Do Workers Face and What are They Doing About it?," <i> (under review) </i> US, 2024. <a href="https://arxiv.org/pdf/2308.10148" style="color: blue">PDF (pre-print)</a>
 * E. Alashwali L.F. Cranor "Privacy Perceptions and Behaviors of Google Personal Account Holders in Saudi Arabia," <i> in proc. of International Conference on Human-Computer Interaction (HCII)</i> US, 2024. <a href="https://arxiv.org/pdf/2308.10148" style="color: blue">PDF (pre-print)</a>
 * X. Shen E. Alashwali L.F. Cranor "What Do Privacy Advertisements Communicate to Consumers?," <i> in proc. of Privacy Enhancing Technologies (PETS)</i> UK, 2024. <a href="https://arxiv.org/pdf/2405.13857" style="color: blue">PDF (pre-print)</a>
