@@ -31,7 +31,7 @@ Work experience
 ======  
 * Oct. 2022 - Present: Collaboration Visitor
   * Security and Privacy Institute (CyLab) at Carnegie Mellon University (CMU).
-  * Duties included: conducting research in usable privacy and security.
+  * Duties included: conducting research in usable privacy and security and co-advising postgraduate (MSc.) students in their research.
     
 * Dec. 2020 - Present: Assistant Professor
   * College of Computing & IT at King Abdulaziz University (KAU).
