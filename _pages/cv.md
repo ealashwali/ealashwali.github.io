@@ -29,9 +29,13 @@ IT Career Certificates
 
 Work experience
 ======  
-* Oct. 2022 - Present: Collaboration Visitor
+* Oct. 2022 - Sep. 2024: Collaboration Visitor
   * Security and Privacy Institute (CyLab) at Carnegie Mellon University (CMU).
   * Duties included: conducting research in usable privacy and security and co-advising postgraduate (MSc.) students in their research.
+    
+* Sep. 2023 - Sep. 2024: Investigator
+  * King Abdullah University of Science and Technology (KAUST), Ibn Rushd Program for Postdoctoral Research.
+  * Duties included: conducting research in collaboration with CyLab.
     
 * Dec. 2020 - Present: Assistant Professor
   * College of Computing & IT at King Abdulaziz University (KAU).
